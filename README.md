@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trevcong
-- 👀 I’m interested in ... Coding, 3D printing, snowboarding, cyber security
+- 👀 I’m interested in ... Coding, 3D printing, snowboarding, computer security
 - 🌱 I’m currently learning ... Java, C/C++, Python, HTML, CSS, JavaScript... more to come
 - 💞️ I’m looking to collaborate on ... Projects!!
 - 📫 How to reach me ... On Github or twitter!
