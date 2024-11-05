@@ -5,7 +5,24 @@
 
 🌱 I’m currently learning ... Machine Learning
 
-SKILLS: Object-Oriented Programming | Java | JavaFX | Python | NumPy | Pandas | PyTorch | TensorFlow | C/C# | HTML | CSS | JavaScript | SQL | Microsoft Windows 7/10/11 | Linux/Unix | Ubuntu | iOS | macOS | Git | Jira | MS Office Suite | Visual Studio Code | Eclipse | Docker | Jenkins | Operating Systems
+Results-driven Software Engineer with extensive full-stack development experience and deep expertise in cloud infrastructure. Proficient in designing and implementing scalable, enterprise-level solutions using diverse programming languages and modern technologies.
+
+Technical Expertise:
+• Languages: Python, C#/.NET, C, Java, JavaScript, HTML/CSS
+• Cloud Platforms: AWS, Google Cloud Platform, Azure
+• DevOps & Infrastructure: Docker, Kubernetes, CI/CD pipelines
+• Version Control: Git, GitLab
+• Architecture: Microservices, RESTful APIs, distributed systems
+• Database Management: Microsoft SQL Server, NoSQL
+• Testing & Quality Assurance: Unit testing, integration testing, TDD
+• Operating Systems: MacOS, Windows, Linux
+• Machine Learning Frameworks: PyTorch, Numpy, TensorFlow
+
+Passionate about implementing best practices in software development and staying current with emerging technologies. Strong problem-solving abilities with a track record of delivering high-performance applications while maintaining code quality and scalability. Experienced in leading technical initiatives and collaborating with cross-functional teams to drive project success.
+
+Seeking opportunities to leverage my technical expertise in challenging projects that push the boundaries of innovation while delivering tangible business value.
+
+#SoftwareEngineering #CloudComputing #DevOps #FullStack #AgileMethodology
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trevor-c-bba927109/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TXbots) 
