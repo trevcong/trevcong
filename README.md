@@ -9,13 +9,21 @@ Results-driven Software Engineer with extensive full-stack development experienc
 
 Technical Expertise:
 • Languages: Python, C#/.NET, C, Java, JavaScript, HTML/CSS
+
 • Cloud Platforms: AWS, Google Cloud Platform, Azure
+
 • DevOps & Infrastructure: Docker, Kubernetes, CI/CD pipelines
+
 • Version Control: Git, GitLab
+
 • Architecture: Microservices, RESTful APIs, distributed systems
+
 • Database Management: Microsoft SQL Server, NoSQL
+
 • Testing & Quality Assurance: Unit testing, integration testing, TDD
+
 • Operating Systems: MacOS, Windows, Linux
+
 • Machine Learning Frameworks: PyTorch, Numpy, TensorFlow
 
 Passionate about implementing best practices in software development and staying current with emerging technologies. Strong problem-solving abilities with a track record of delivering high-performance applications while maintaining code quality and scalability. Experienced in leading technical initiatives and collaborating with cross-functional teams to drive project success.
