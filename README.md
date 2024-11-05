@@ -8,6 +8,7 @@
 Results-driven Software Engineer with extensive full-stack development experience and deep expertise in cloud infrastructure. Proficient in designing and implementing scalable, enterprise-level solutions using diverse programming languages and modern technologies.
 
 Technical Expertise:
+
 • Languages: Python, C#/.NET, C, Java, JavaScript, HTML/CSS
 
 • Cloud Platforms: AWS, Google Cloud Platform, Azure
