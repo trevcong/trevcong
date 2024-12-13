@@ -11,13 +11,13 @@ Technical Expertise:
 
 • Languages: Python, C#/.NET, C, Java, JavaScript, HTML/CSS
 
-• Cloud Platforms: AWS, Google Cloud Platform, Azure
+• Cloud Platforms: AWS, Google Cloud Platform, Azure, DigitalOcean
 
 • DevOps & Infrastructure: Docker, Kubernetes, CI/CD pipelines
 
 • Version Control: Git, GitLab
 
-• Architecture: Microservices, RESTful APIs, distributed systems
+• Architecture: Microservices, APIs, distributed systems
 
 • Database Management: Microsoft SQL Server, NoSQL
 
