@@ -1,37 +1,7 @@
 # 💫About Me :
 👋 Hi, I’m Trevor!
 
-👀 I’m interested in ... Web development, computer security, 3D printing, machine learning/ai
-
-🌱 I’m currently learning ... Machine Learning
-
-Results-driven Software Engineer with extensive full-stack development experience and deep expertise in cloud infrastructure. Proficient in designing and implementing scalable, enterprise-level solutions using diverse programming languages and modern technologies.
-
-Technical Expertise:
-
-• Languages: Python, C#/.NET, C, Java, JavaScript, HTML/CSS
-
-• Cloud Platforms: AWS, Google Cloud Platform, Azure, DigitalOcean
-
-• DevOps & Infrastructure: Docker, Kubernetes, CI/CD pipelines
-
-• Version Control: Git, GitLab
-
-• Architecture: Microservices, APIs, distributed systems
-
-• Database Management: Microsoft SQL Server, NoSQL
-
-• Testing & Quality Assurance: Unit testing, integration testing, TDD
-
-• Operating Systems: MacOS, Windows, Linux
-
-• Machine Learning Frameworks: PyTorch, Numpy, TensorFlow
-
-Passionate about implementing best practices in software development and staying current with emerging technologies. Strong problem-solving abilities with a track record of delivering high-performance applications while maintaining code quality and scalability. Experienced in leading technical initiatives and collaborating with cross-functional teams to drive project success.
-
-Seeking opportunities to leverage my technical expertise in challenging projects that push the boundaries of innovation while delivering tangible business value.
-
-#SoftwareEngineering #CloudComputing #DevOps #FullStack #AgileMethodology
+Results-driven Software Engineer with full-stack development expertise and a growing focus on Machine Learning. Skilled in designing scalable, enterprise-level solutions using Python, C#/.NET, Java, JavaScript, HTML/CSS, and cloud platforms like AWS, Google Cloud, Azure. Proficient in DevOps (Docker, Kubernetes, CI/CD), microservices, RESTful/SOAP APIs, and database management (SQL Server, SQLite). Experience with Machine Learning frameworks like PyTorch and NumPy, and passionate about integrating AI into software solutions. Dedicated to best practices, emerging technologies, and delivering high-performance, scalable applications. Seeking roles that combine Software Engineering and Machine Learning to drive innovation and deliver business value.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trevor-c-bba927109/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TXbots) 
