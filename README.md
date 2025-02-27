@@ -20,7 +20,7 @@ Results-driven Software Engineer with full-stack development expertise and a gro
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="(https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-1.jpeg)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=trevcong&icon=0&color=0)](https://visitcount.itsvg.in)
