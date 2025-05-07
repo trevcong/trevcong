@@ -1,7 +1,7 @@
 # 💫About Me :
 👋 Hi, I’m Trevor!
 
-Results-driven Software Engineer with full-stack development expertise and a growing focus on Machine Learning. 
+Results-driven Software Engineer with full-stack development experience and a growing focus on Machine Learning. 
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trevor-c-bba927109/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TXbots) 
